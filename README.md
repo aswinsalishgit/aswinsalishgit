@@ -12,16 +12,19 @@
 
 <p align="center">
   <a href="https://aswinsalish.me/">
-    <img src="https://img.shields.io/badge/WEBSITE-FF4436?style=for-the-badge&logo=googlechrome&logoColor=F2F0EA" alt="Website">
+    <img src="./assets/buttons/website.svg" alt="Website">
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:aswin25cs@cce.edu.in">
-    <img src="https://img.shields.io/badge/EMAIL-F2F0EA?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email">
+    <img src="./assets/buttons/email.svg" alt="Email">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aswinsalish/">
-    <img src="https://img.shields.io/badge/LINKEDIN-FF4436?style=for-the-badge&logo=linkedin&logoColor=F2F0EA" alt="LinkedIn">
+    <img src="./assets/buttons/linkedin.svg" alt="LinkedIn">
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/aswin_salish/">
-    <img src="https://img.shields.io/badge/INSTAGRAM-F2F0EA?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram">
+    <img src="./assets/buttons/instagram.svg" alt="Instagram">
   </a>
 </p>
 
