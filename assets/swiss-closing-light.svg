@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="Let’s work together. Aswin Salish.">
+<style>
+.gl{transform-box:fill-box;transform-origin:center top;animation:drop 1.2s cubic-bezier(0.16, 1, 0.3, 1) both}
+.disc{transform-box:fill-box;transform-origin:center;animation:disc 1.4s cubic-bezier(0.16, 1, 0.3, 1) .2s both}
+.slide{animation:slide 1.3s cubic-bezier(0.16, 1, 0.3, 1) .45s both}
+.txt{animation:fade 1s ease-out 1s both}
+@keyframes drop{from{transform:scaleY(0)}}
+@keyframes disc{from{transform:scale(0)}}
+@keyframes slide{from{transform:translateX(-824px)}}
+@keyframes fade{from{opacity:0}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<defs><clipPath id="frame"><rect width="1200" height="240" rx="14"/></clipPath><clipPath id="line"><rect x="44" y="0" width="917.3333333333333" height="240"/></clipPath></defs>
+<g clip-path="url(#frame)">
+<rect width="1200" height="240" fill="#f2f0ea"/>
+<rect class="gl" style="animation-delay:0.00s" x="47.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.03s" x="140.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.03s" x="124.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.06s" x="234.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.06s" x="218.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.09s" x="327.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.09s" x="311.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.12s" x="420.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.12s" x="404.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.15s" x="514.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.15s" x="498.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.18s" x="607.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.18s" x="591.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.21s" x="700.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.21s" x="684.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.24s" x="794.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.24s" x="778.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.27s" x="887.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.27s" x="871.5" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.30s" x="980.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.30s" x="964.8" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.33s" x="1074.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.33s" x="1058.2" y="0" width="1" height="240" fill="#e6e2d9"/><rect class="gl" style="animation-delay:0.36s" x="1151.5" y="0" width="1" height="240" fill="#e6e2d9"/>
+<circle class="disc" cx="1130" cy="120" r="150" fill="#e2231a"/>
+<g clip-path="url(#line)"><text class="slide" x="45" y="115.9" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', ui-sans-serif, -apple-system, sans-serif" font-weight="700" font-size="72" letter-spacing="-1.8" fill="#111111">Let’s work together.</text></g>
+<g class="txt" font-family="'Helvetica Neue', Helvetica, Arial, 'Segoe UI', ui-sans-serif, -apple-system, sans-serif" font-size="15">
+  <text x="48" y="196" font-weight="700" fill="#111111">Aswin Salish</text>
+  
+  <text x="701.3" y="196" fill="#5f5f5f">github.com/aswinsalishgit</text>
+</g>
+</g>
+</svg>
