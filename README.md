@@ -1,4 +1,3 @@
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/swiss-poster-dark.svg">
@@ -11,10 +10,10 @@
 </p>
 
 <div align="center">
-  <a href="https://aswinsalish.me/"><img src="./assets/buttons/website.svg" alt="Website" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:aswin25cs@cce.edu.in"><img src="./assets/buttons/email.svg" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aswinsalish/"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aswin_salish/"><img src="./assets/buttons/instagram.svg" alt="Instagram" /></a>
+  <a href="https://aswinsalish.me/" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/website.svg" alt="Website" /></a>   
+  <a href="mailto:aswin25cs@cce.edu.in" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/email.svg" alt="Email" /></a>   
+  <a href="https://www.linkedin.com/in/aswinsalish/" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" /></a>   
+  <a href="https://www.instagram.com/aswin_salish/" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/instagram.svg" alt="Instagram" /></a>
 </div>
 
 #### Index
