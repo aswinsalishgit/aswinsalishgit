@@ -11,21 +11,15 @@
 </p>
 
 <p align="center">
-  <a href="https://aswinsalish.me/">
-    <img src="./assets/buttons/website.svg" alt="Website">
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:aswin25cs@cce.edu.in">
-    <img src="./assets/buttons/email.svg" alt="Email">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aswinsalish/">
-    <img src="./assets/buttons/linkedin.svg" alt="LinkedIn">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/aswin_salish/">
-    <img src="./assets/buttons/instagram.svg" alt="Instagram">
-  </a>
+
+[![Website](./assets/buttons/website.svg)](https://aswinsalish.me/)
+&nbsp;&nbsp;&nbsp;
+[![Email](./assets/buttons/email.svg)](mailto:aswin25cs@cce.edu.in)
+&nbsp;&nbsp;&nbsp;
+[![LinkedIn](./assets/buttons/linkedin.svg)](https://www.linkedin.com/in/aswinsalish/)
+&nbsp;&nbsp;&nbsp;
+[![Instagram](./assets/buttons/instagram.svg)](https://www.instagram.com/aswin_salish/)
+
 </p>
 
 #### Index
