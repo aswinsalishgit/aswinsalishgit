@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://aswinsalish.me/">
-    <img src="https://img.shields.io/badge/Website-aswinsalish.me-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F0F6FC" alt="Website">
+    <img src="https://img.shields.io/badge/WEBSITE-FF4436?style=for-the-badge&logo=googlechrome&logoColor=F2F0EA" alt="Website">
   </a>
   <a href="mailto:aswin25cs@cce.edu.in">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-0D1117?style=for-the-badge&logo=gmail&logoColor=F0F6FC" alt="Email">
+    <img src="https://img.shields.io/badge/EMAIL-F2F0EA?style=for-the-badge&logo=gmail&logoColor=0D1117" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/aswinsalish/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0F6FC" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LINKEDIN-FF4436?style=for-the-badge&logo=linkedin&logoColor=F2F0EA" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/aswin_salish/">
-    <img src="https://img.shields.io/badge/Instagram-Follow-0D1117?style=for-the-badge&logo=instagram&logoColor=F0F6FC" alt="Instagram">
+    <img src="https://img.shields.io/badge/INSTAGRAM-F2F0EA?style=for-the-badge&logo=instagram&logoColor=0D1117" alt="Instagram">
   </a>
 </p>
 
