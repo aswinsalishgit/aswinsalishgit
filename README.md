@@ -10,13 +10,11 @@
 </p>
 
 <div align="center">
-  <a href="https://aswinsalish.me/" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/website.svg" alt="Website" /></a>   
-  <a href="mailto:aswin25cs@cce.edu.in" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/email.svg" alt="Email" /></a>   
-  <a href="https://www.linkedin.com/in/aswinsalish/" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" /></a>   
-  <a href="https://www.instagram.com/aswin_salish/" target="_blank" rel="noopener noreferrer"><img src="./assets/buttons/instagram.svg" alt="Instagram" /></a>
+  <a href="https://aswinsalish.me/"><img src="./assets/buttons/website.svg" alt="Website" /></a>   
+  <a href="mailto:aswin25cs@cce.edu.in"><img src="./assets/buttons/email.svg" alt="Email" /></a>   
+  <a href="https://www.linkedin.com/in/aswinsalish/"><img src="./assets/buttons/linkedin.svg" alt="LinkedIn" /></a>   
+  <a href="https://www.instagram.com/aswinsalish/"><img src="./assets/buttons/instagram.svg" alt="Instagram" /></a>
 </div>
-
-#### Index
 
 <p align="center">
   <picture>
@@ -30,7 +28,7 @@
 </p>
 
 <details>
-  <summary><sub>Key</sub></summary>
+  <summary></summary>
 
   - **The figure** on the poster is your contributions in the last twelve months. The bars along its foot are the 52 weeks, with the busiest in red.
   - **Index:** the year in numbers, language share by bytes across public repositories, and contributions per calendar month (numbered 01 to 12).
